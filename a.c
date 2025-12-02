@@ -1,6 +1,12 @@
 #include <stdio.h>
 
 int main(){
-	printf("testing..\n");
+	printf("1testing..\n");
+	printf("2testing..\n");
+	printf("3testing..\n");
+	printf("4testing..\n");
+	printf("5testing..\n");
+	printf("6testing..\n");
+	printf("7testing..\n");
 	return 0;
 }
